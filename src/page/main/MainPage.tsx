@@ -90,11 +90,11 @@ export const MainPage = (props: MainPageProps) => {
             <div className={classes.root}>
             </div>
             <div className={classes.imageWrapper}>
-                <img className={classes.image} src={profileImage} alt={'Its me Michael Mannseicher'}/>
+                <img className={classes.image} src={profileImage} alt={'Its me Onur Desde'}/>
             </div>
             <div className={classes.headline}>
-                <div>Michael</div>
-                <div className={classes.subHeadline}>Mannseicher</div>
+                <div>Onur</div>
+                <div className={classes.subHeadline}>Desde</div>
             </div>
 
             <div className={classes.descriptionShort}>
