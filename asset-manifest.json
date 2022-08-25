@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/onur-website/static/js/main.581a872e.chunk.js",
-    "main.js.map": "/onur-website/static/js/main.581a872e.chunk.js.map",
+    "main.js": "/onur-website/static/js/main.7464606e.chunk.js",
+    "main.js.map": "/onur-website/static/js/main.7464606e.chunk.js.map",
     "runtime-main.js": "/onur-website/static/js/runtime-main.27df3ac7.js",
     "runtime-main.js.map": "/onur-website/static/js/runtime-main.27df3ac7.js.map",
     "static/css/2.25867947.chunk.css": "/onur-website/static/css/2.25867947.chunk.css",
@@ -90,7 +90,7 @@
     "static/media/postgresql.ae92b576.svg": "/onur-website/static/media/postgresql.ae92b576.svg",
     "static/media/prettier.3adabc76.svg": "/onur-website/static/media/prettier.3adabc76.svg",
     "static/media/prisma.1c35507b.svg": "/onur-website/static/media/prisma.1c35507b.svg",
-    "static/media/profile.f9c35b5f.jpg": "/onur-website/static/media/profile.f9c35b5f.jpg",
+    "static/media/profile.2dbbe9cf.jpg": "/onur-website/static/media/profile.2dbbe9cf.jpg",
     "static/media/python.e6d7dc73.svg": "/onur-website/static/media/python.e6d7dc73.svg",
     "static/media/rabbitmq.cd8d4d68.svg": "/onur-website/static/media/rabbitmq.cd8d4d68.svg",
     "static/media/300.css": "/onur-website/static/media/raleway-vietnamese-300-normal.c8cca8c8.woff2",
@@ -120,6 +120,6 @@
     "static/js/runtime-main.27df3ac7.js",
     "static/css/2.25867947.chunk.css",
     "static/js/2.e5d717cb.chunk.js",
-    "static/js/main.581a872e.chunk.js"
+    "static/js/main.7464606e.chunk.js"
   ]
 }
