@@ -19,6 +19,8 @@ declare module "@mui/material/styles" {
   }
 }
 
+const primaryColor = '#0019bc'
+
 export const themeOptions: ThemeOptions = {
   breakpoints: {
     values: {
@@ -28,7 +30,7 @@ export const themeOptions: ThemeOptions = {
     },
   },
   palette: {
-    primary: { main: "#aba49e" },
+    primary: { main: primaryColor },
     background: { default: "#EDF2FA" },
   },
   components: {
@@ -40,9 +42,9 @@ export const themeOptions: ThemeOptions = {
         variant: "contained",
       },
     },
-  },
+  }, 
 }
 
 export const globalStyles: GlobalProps["styles"] = {
-  a: { color: "#001862", textDecoration: "none" },
+  a: { color: primaryColor, textDecoration: "none" },
 }
